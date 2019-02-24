@@ -77,3 +77,19 @@
 	height: 300px;
 	background-color: #ffffff;
 }
+
+.btn{
+	padding: 15px;
+	margin-top: 15px;
+	font-size: 1.5em;
+	border-radius: 15px;
+	border-style: solid;
+	border-color:#ff9000;
+
+}
+.btn:hover{
+	border-style: solid 2px;;
+	border-color:#ff9000;
+	background-color:#ff9000;
+
+}

@@ -1,0 +1,15 @@
+{
+  "name": "hci_ex",
+  "version": "1.0.0",
+  "description": "Example Design using HCI concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?"
+  },
+  "author": "Jose L",
+  "license": "ISC"
+}
